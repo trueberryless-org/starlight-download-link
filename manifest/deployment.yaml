@@ -17,5 +17,5 @@ spec:
     spec:
       containers:
         - name: starlight-download-link
-          image: "trueberryless/starlight-download-link"
+          image: "trueberryless/starlight-download-link:0.0.2"
           imagePullPolicy: Always
