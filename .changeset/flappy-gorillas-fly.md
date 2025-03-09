@@ -1,5 +1,5 @@
 ---
-"starlight-download-icon": minor
+"starlight-download-link": minor
 ---
 
 Initial release
